@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  font-family: "Lexend Mega", sans-serif;
+  color: black;
+  background-color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+a {
+    color: black;
+}
+
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 10px;
+}
